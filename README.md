@@ -17,5 +17,8 @@ OK, that was a success. I did not see the .pdf at Github. I then forked by own r
 terminal. This new folder on my terminal is where I am modifying this README.md but maybe I should have created 
 a branch first..????
 
-Ok, So I piushed the changes to README.md to Github and then created a branch called feature-1 in my terminal
+Ok, So I pushed the changes to README.md to Github and then created a branch called feature-1 in my terminal
 on my computer. I am presently changing the README.md in this new branch.
+
+Ok so I created pull request on github and followed directions to merge the branches. After that I merge
+the branches in my terminal and deleted the feature-1 branch.
