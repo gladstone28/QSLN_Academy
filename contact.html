@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact | QSLN Academy</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="courses.html">Courses</a></li>
+				<li><a href="admissions.html">Admissions</a></li>
+				<li><a href="about.html">About</a></li>
+				<li class="active"><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<section id="contact">
+		<div class="container">
+			<h1>Contact Us</h1>
+			<p>Thank you for your interest in QSLN Academy. Please feel free to contact us using the information below, or submit your message using the form.</p>
+			<div class="contact-info">
+				<h2>Address</h2>
+				<p>123 Main Street<br>City, State Zip<br>Country</p>
+				<h2>Phone</h2>
+				<p>(123) 456-7890</p>
+				<h2>Email</h2>
+				<p>info@qslndacademy.edu</p>
+			</div>
+			<form id="contact-form" method="post" action="process.php">
+				<label for="name">Name:</label>
+				<input type="text" id="name" name="name" required>
+
+				<label for="email">Email:</label>
+				<input type="email" id="email" name="email" required>
+
+				<label for="subject">Subject:</label>
+				<input type="text" id="subject" name="subject" required>
+
+				<label for="message">Message:</label>
+				<textarea id="message" name="message" required></textarea>
+
+				<button type="submit">Submit</button>
+			</form>
+		</div>
+	</section>
+
+	<footer>
+		<p>&copy; 2023 QSLN Academy. All rights reserved.</p>
+	</footer>
+</body>
+</html>

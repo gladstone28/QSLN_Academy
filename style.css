@@ -1,0 +1,185 @@
+body {
+	font-family: Arial, sans-serif;
+	color: #333;
+}
+
+header {
+	background-color: #f2f2f2;
+	padding: 20px;
+}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 20px;
+	box-sizing: border-box;
+}
+
+#courses ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#courses li {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.active {
+	font-weight: bold;
+}
+
+
+
+
+
+h1 {
+	font-size: 36px;
+	margin: 0;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #333;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+nav a:hover {
+	color: #0066cc;
+}
+
+section {
+	padding: 50px;
+}
+
+#banner {
+	background-image: url("banner.jpg");
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	text-align: center;
+}
+
+#banner h2 {
+	font-size: 48px;
+	margin-top: 0;
+}
+
+#banner p {
+	font-size: 24px;
+	margin-bottom: 30px;
+}
+
+.btn {
+	background-color: #0066cc;
+	color: #fff;
+	padding: 10px 20px;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+.btn:hover {
+	background-color: #0052a3;
+}
+
+#about {
+	background-color: #f2f2f2;
+}
+
+#courses ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#courses li {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+#admissions {
+	background-color: #0066cc;
+	color: #fff;
+}
+
+#admissions p {
+	font-size: 24px;
+	margin-bottom: 30px;
+}
+
+#contact label {
+	display: block;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+#contact input, #contact textarea {
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	width: 100%;
+	box-sizing: border-box;
+	border: none;
+	border-radius: 5px;
+}
+
+#contact input[type="submit"] {
+	background-color: #0066cc;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	font-size: 18px;
+	border-radius: 5px;
+}
+
+#contact input[type="submit"]:hover {
+	background-color: #0052a3;
+}
+
+footer {
+	background-color: #f2f2f2;
+	padding: 20px;
+	text-align: center;
+	font-size: 16px;
+	color: #666;
+}
+
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 20px;
+	box-sizing: border-box;
+}
+
+#admissions ol {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.active {
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
