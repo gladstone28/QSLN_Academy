@@ -1,7 +1,7 @@
-This was a codecademy Project titled Colmar Academy. Lessons learned was used to create thi website
-titled QSLN Academy. A previous repository was don in the name of Colmar Academy and pushed to Github.
+This was a codecademy Project titled Colmar Academy. Lessons learned was used to create this website
+titled QSLN Academy. A previous repository was done in the name of Colmar Academy and pushed to Github.
 I need to decide if I will keep Colmar Academy for learning purposes but I have decided to push forward
-to comple QSLN Academy
+to complete QSLN Academy.
 
 
 Note that only a design was provided by Codecademy and so it required that the student
