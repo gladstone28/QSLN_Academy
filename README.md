@@ -12,3 +12,7 @@ It is still 06 April 2023 and I decided to add a .pdf file on how to do a pull r
 I decided to place .pdf files in my .ignore so that I can see it only in my terminal on my computer but not
 push the .pdf to Github. So I should not see this .pdf file at Github but I should be able to read it
 on my local computer.
+
+OK, that was a success. I did not see the .pdf at Github. I then forked by own repo then cloned it back to my 
+terminal. This new folder on my terminal is where I am modifying this README.md but maybe I should have created 
+a branch first..????
